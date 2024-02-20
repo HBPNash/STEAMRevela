@@ -1,0 +1,4 @@
+.interactive-background {
+  transition: background 0.5s ease-in-out;
+  background: linear-gradient(from-#89f7fe via-#66a6ff to-#4a00e0);
+}
