@@ -59,7 +59,7 @@ function Game() {
         
         
             <div className='text-center font-bold text-gray-50 text-xl'>
-              ¿Tu imagen aparece en esta tarjeta?
+              ¿Tu imagen aparece en esta CARTA?
             </div>
             {
               objetoRevelado && <>
